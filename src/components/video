@@ -1,0 +1,28 @@
+Talk to an agent
+  <script
+   src="https://static.soulmachines.com/widget-snippet-1.12.0.min.js"
+   data-sm-api-key="YOUR_API_KEY"
+  ></script>
+
+
+
+
+  <div className="contact10-container1 thq-section-padding">
+    <Helmet>
+        <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css" />
+        <style>{}</style>
+    </Helmet>
+
+    <div> 
+        <df-messenger
+        location="us-central1"
+        project-id="kaggle-gemini-ai"
+        agent-id="bd1ae60d-ddaa-4fc1-a73f-b2f670d78041"
+        language-code="en"
+        max-query-length="-1"
+        >
+        <df-messenger-chat-bubble chat-title="Eduzone">
+        </df-messenger-chat-bubble>
+        </df-messenger>
+    </div>
+  </div>
