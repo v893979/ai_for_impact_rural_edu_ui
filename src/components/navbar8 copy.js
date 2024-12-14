@@ -1,5 +1,5 @@
 import React, { useState, Fragment } from 'react'
-
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types'
 
 import './navbar8.css'
@@ -27,6 +27,7 @@ const Navbar8 = (props) => {
                 </Fragment>
               )}
             </a>
+            <Link to="/" className="thq-link thq-body-small">home</Link>
             <a href={props.link2Url} className="thq-body-small thq-link">
               {props.link2 ?? (
                 <Fragment>
