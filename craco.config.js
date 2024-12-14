@@ -1,5 +1,3 @@
-const { CracoAliasPlugin } = require("react-app-alias");
-
 module.exports = {
   reactScriptsVersion: "react-scripts", 
   style: {
@@ -11,7 +9,12 @@ module.exports = {
       },
     },
   },
-  devServer: {
-    port: process.env.PORT || 3036, // Add this line
+  webpack: {
+    configure: (webpackConfig, { env, paths }) => {
+      if (env === 'production') {
+        webpackConfig.devtool = false; // Disable source maps in production
+      }
+      return webpackConfig;
+    },
   },
 };
