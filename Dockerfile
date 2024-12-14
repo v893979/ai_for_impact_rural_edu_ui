@@ -16,5 +16,8 @@ COPY . .
 # Expose the port the application will run on
 EXPOSE 3036
 
+# Make craco executable
+RUN chmod +x ./node_modules/.bin/craco 
+
 # Start the application
 CMD ["npm", "start"]
