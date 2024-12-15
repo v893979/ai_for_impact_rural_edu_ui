@@ -1,3 +1,7 @@
+## Getting Started
+
+* **Visit the website:** [https://Eduzone.Pro](https://eduzone.pro)
+  
 # Eduzone.Pro - Empowering Education for Students, Teachers, and Parents
 
 Eduzone.Pro is an innovative online platform designed to enhance the learning experience for students, provide valuable resources for teachers, and keep parents engaged in their child's education.
@@ -7,12 +11,12 @@ Eduzone.Pro is an innovative online platform designed to enhance the learning ex
 Eduzone.Pro offers a variety of interactive and engaging tools for students, including:
 
 * **Virtual Teacher:** Interact with a virtual teacher to get personalized guidance and support.
-* *** This virtual teacher is trained on Grde 7 Mathematics book of Australian Victorian curriculam. This virtual teacher uses Vertex AI Conversational Agent as backend
+** This virtual teacher is trained on Grde 7 Mathematics book of Australian Victorian curriculam. This virtual teacher uses Vertex AI Conversational Agent as backend
 * **Content Videos:** Access a library of educational videos covering various subjects and topics.
 * **Podcasts:** Listen to and download informative podcasts to learn on the go.
-* *** Teachers can generate podcasts using Notebook LLM and upload them for students to listen / download
+** Teachers can generate podcasts using Notebook LLM and upload them for students to listen / download
 * **Live Virtual Agent:** Chat with a virtual agent trained on the Grade 7 mathematics textbook of the Victorian curriculum to get help with math concepts and problem-solving.
-* *** his virtual agent uses Vertex AI Conversational Agent as backend
+** This virtual agent uses Vertex AI Conversational Agent as backend
 
 ## For Teachers
 
@@ -26,9 +30,7 @@ Eduzone.Pro provides powerful tools for teachers to create and deliver engaging 
 
 Eduzone.Pro helps parents stay connected to their child's learning journey:
 
-## Getting Started
 
-* **Visit the website:** [https://Eduzone.Pro](https://eduzone.pro)
 
 ## License
 
