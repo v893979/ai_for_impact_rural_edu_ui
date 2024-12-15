@@ -1,6 +1,6 @@
 ## Getting Started
 
-* **Visit the website:** [https://Eduzone.Pro](https://eduzone.pro)
+* **Visit the website:** [http://Eduzone.Pro](http://eduzone.pro)
   
 # Eduzone.Pro - Empowering Education for Students, Teachers, and Parents
 
