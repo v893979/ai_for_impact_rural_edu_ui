@@ -26,7 +26,7 @@ Eduzone.Pro helps parents stay connected to their child's learning journey:
 
 ## Getting Started
 
-* **Visit the website:** [https://Eduzone.Pro](https://Eduzone.Pro)
+* **Visit the website:** [https://Eduzone.Pro](https://kaggle-gemini-ai.ts.r.appspot.com/)
 * **[Add any specific instructions for getting started, such as creating an account or accessing resources.]**
 
 ## Contributing
