@@ -11,12 +11,13 @@ Eduzone.Pro is an innovative online platform designed to enhance the learning ex
 Eduzone.Pro offers a variety of interactive and engaging tools for students, including:
 
 * **Virtual Teacher:** Interact with a virtual teacher to get personalized guidance and support.
-** This virtual teacher is trained on Grde 7 Mathematics book of Australian Victorian curriculam. This virtual teacher uses Vertex AI Conversational Agent as backend
+    * This virtual teacher is trained on the Grade 7 Mathematics book of the Australian Victorian curriculum.
+    * This virtual teacher uses Vertex AI Conversational Agent as the backend.
 * **Content Videos:** Access a library of educational videos covering various subjects and topics.
 * **Podcasts:** Listen to and download informative podcasts to learn on the go.
-** Teachers can generate podcasts using Notebook LLM and upload them for students to listen / download
+    * Teachers can generate podcasts using Notebook LLM and upload them for students to listen to or download. 
 * **Live Virtual Agent:** Chat with a virtual agent trained on the Grade 7 mathematics textbook of the Victorian curriculum to get help with math concepts and problem-solving.
-** This virtual agent uses Vertex AI Conversational Agent as backend
+    * This virtual agent uses Vertex AI Conversational Agent as the backend.
 
 ## For Teachers
 
